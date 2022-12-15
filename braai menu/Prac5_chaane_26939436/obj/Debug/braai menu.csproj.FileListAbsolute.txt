@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\bin\Debug\Prac5_chaane_26939436.exe.config
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\bin\Debug\Prac5_chaane_26939436.exe
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\bin\Debug\Prac5_chaane_26939436.pdb
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\obj\Debug\braai menu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\obj\Debug\braai menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\obj\Debug\Prac5_chaane_26939436.Form1.resources
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\obj\Debug\Prac5_chaane_26939436.Properties.Resources.resources
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\obj\Debug\braai menu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\obj\Debug\braai menu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\obj\Debug\Prac5_chaane_26939436.exe
+C:\Users\User\Desktop\projects\Braai menu\braai menu\Prac5_chaane_26939436\obj\Debug\Prac5_chaane_26939436.pdb
